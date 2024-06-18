@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @horbix28
-- 👀 I’m interested in Networking, Simple Scripting, Programming, Gaming
+- 👀 I’m interested in Networking, Selfhosting, Simple Scripting, Administrating, Gaming
 - 🌱 I'm currently doing an apprenticeship as an IT specialist for system integration
 
 <!---
